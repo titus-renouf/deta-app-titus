@@ -1,0 +1,1 @@
+In this project we are learning how to deploy a Deta Website, and then how to use Google Analytics to analyze it.
